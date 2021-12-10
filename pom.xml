@@ -12,6 +12,7 @@
         <module>two-sum</module>
         <module>palindrome-number</module>
         <module>linked-list-cycle1</module>
+        <module>valid-parentheses</module>
     </modules>
     <dependencies>
         <dependency>
