@@ -13,6 +13,7 @@
         <module>palindrome-number</module>
         <module>linked-list-cycle1</module>
         <module>valid-parentheses</module>
+        <module>reverse-linked-list</module>
     </modules>
     <dependencies>
         <dependency>
